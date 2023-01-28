@@ -1,4 +1,4 @@
-## Meu nome é Nicolas Victor <br>sou um Programador Web Jr
+## Meu nome é Nicolas Victor e sou <br>um Programador Web em formação! 🌐
 
 <div
 style="display: inline_block"><br>
