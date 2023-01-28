@@ -1,17 +1,16 @@
 ## <p>Meu nome é Nicolas Victor e sou um Programador Web em formação! 🌐
 
-![Nicolas Victor](https://github-readme-stats.vercel.app/api?username=nicolasvictorsg&theme=dark)
-&nbsp;&nbsp;![Nicolas Victor](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvictorsg&theme=dark)
+![Nicolas Victor](https://github-readme-stats.vercel.app/api?username=nicolasvictorsg&theme=clean)
+&nbsp;&nbsp;![Nicolas Victor](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvictorsg&theme=clean)
 
 ##
 
 <div
 style="display: inline_block"><br>
-              <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-&nbsp;&nbsp;  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-&nbsp;&nbsp;  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-&nbsp;&nbsp;  <img align="center" alt="VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
-&nbsp;&nbsp;  <img align="center" alt="php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+              <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+&nbsp;&nbsp;  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+&nbsp;&nbsp;  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+&nbsp;&nbsp;  <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
 </div>
   
 ##
