@@ -1,4 +1,4 @@
-## <p>Meu nome é Nicolas Victor e sou um Programador Web em formação! 🌐
+## <p>Me chamo Nicolas Victor e sou um Desenvolvedor Web em formação! 🌐
 
 ![Nicolas Victor](https://github-readme-stats.vercel.app/api?username=nicolasvictorsg&theme=clean)
 &nbsp;&nbsp;![Nicolas Victor](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvictorsg&theme=clean)
