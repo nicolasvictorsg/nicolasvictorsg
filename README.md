@@ -12,7 +12,8 @@ style="display: inline_block"><br>
 &nbsp;&nbsp;  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 &nbsp;&nbsp;  <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 &nbsp;&nbsp;  <img align="center" alt="React" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+&nbsp;&nbsp;  <img align="center" alt="React" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+</div>          
   
 ##
 
